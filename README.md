@@ -15,11 +15,11 @@ Esta versión añade funcionalidades adicionales:
 ### Simulación de densidad
 ![Densidad](./images/RenderDensity.png)
 
-### Campo de aceleración
-![Aceleración](./images/RenderAcceleretionField.png)
-
 ### Campo de velocidad
 ![Velocidad](./images/RenderVelocityField.png)
+
+### Campo de aceleración
+![Aceleración](./images/RenderAcceleretionField.png)
 
 ### Detección de vórtices
 ![Vórtices](./images/RenderVortexDetector.png)
